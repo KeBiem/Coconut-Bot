@@ -1,6 +1,10 @@
 {
-  "name": "",
-  "version": "",
+  "name": "Coconut Bot",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start"; "node index.js"
+  },
   "dependencies": {
     "discord.js": "^11.3.2",
     "fortnite": "^3.0.0",
